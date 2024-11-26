@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+main2.py
+test_client.py
+redis_client.py
+test_updates.py
